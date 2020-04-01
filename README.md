@@ -6,3 +6,6 @@ Useful algorithms for competitive programming
 * [Binary exponentiation](https://github.com/Skeef79/CP-Algo/blob/master/Number%20Theory/Binary%20Exponentiation.cpp)
 * [Eratosfen sieve O(nloglog n)](https://github.com/Skeef79/CP-Algo/blob/master/Number%20Theory/Classic%20Sieve.cpp)
 * [Linear sieve O(n)](https://github.com/Skeef79/CP-Algo/blob/master/Number%20Theory/Linear%20Sieve.cpp)
+## Strings
+* [Manacher's algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Strings/Manacher's%20algorithm.cpp)
+* [Z function](https://github.com/Skeef79/CP-Algo/blob/master/Strings/Z%20function.cpp)
