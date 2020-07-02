@@ -19,7 +19,7 @@ bool dfs(int v)
 	return false;
 }
 
-int khun()
+int kuhn()
 {
 	int ans = 0;
 	for (int v = 0; v < n; v++)
