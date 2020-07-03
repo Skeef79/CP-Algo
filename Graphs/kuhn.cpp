@@ -21,6 +21,7 @@ bool dfs(int v)
 
 int kuhn()
 {
+	fill(all(r),-1);
 	int ans = 0;
 	for (int v = 0; v < n; v++)
 	{
