@@ -2,7 +2,7 @@ const int N = 10000000;
 int lp[N + 1];
 vector<int> pr;
 
-void LinearSieve()
+void linearSieve()
 {
 	pr.reserve(N / 10);
 	for (int i = 2; i <= N; i++)
