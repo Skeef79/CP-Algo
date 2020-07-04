@@ -2,7 +2,7 @@ const int N = 10000000;
 int used[N + 1];
 vector<int> pr;
 
-void Sieve()
+void sieve()
 {
 	pr.reserve(N / 10);
 	for (ll i = 2; i <= N; i++)
