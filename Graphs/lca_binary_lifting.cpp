@@ -11,8 +11,8 @@ void dfs(int v, int level=0, int p = 0)
 	jump[v][0] = p;
 
 	for (auto to : g[v])
-		if (to.first != p)
-			dfs(to.first, level + 1, v);
+		if (to != p)
+			dfs(to, level + 1, v);
 }
 
 void InitJump()
