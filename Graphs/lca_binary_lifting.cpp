@@ -1,7 +1,7 @@
 const int LOG = 20;
 int n;
 
-vector<vector<pll>> g;
+vector<vector<int>> g;
 vector<int> lvl;
 vector<vector<int>> jump;
 
