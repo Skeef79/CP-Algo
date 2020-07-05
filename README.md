@@ -12,3 +12,4 @@ Useful algorithms for competitive programming
 ## Graphs
 * [Kuhn's algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/kuhn.cpp)
 * [Hungarian algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/Hungarian_Algorithm.cpp)
+* [LCA Binary Lifting](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/lca_binary_lifting.cpp)
