@@ -11,6 +11,6 @@ Useful algorithms for competitive programming
 * [Z function](https://github.com/Skeef79/CP-Algo/blob/master/Strings/Z%20function.cpp)
 ## Graphs
 * [Kuhn's algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/kuhn.cpp)
-* [Hungarian algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/Hungarian_Algorithm.cpp)
+* [Hungarian algorithm](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/hungarian_algorithm.cpp)
 * [LCA Binary Lifting](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/lca_binary_lifting.cpp)
 * [Center of a Tree](https://github.com/Skeef79/CP-Algo/blob/master/Graphs/tree_center.cpp)
